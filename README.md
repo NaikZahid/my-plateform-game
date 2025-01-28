@@ -12,4 +12,4 @@ Use up & down buttons to control the bike
 
 ## Screenshot
 
-! [Title screen] (https://raw.githubusercontent.com/NaikZahid/my-plateform-game/refs/heads/main/Screenshot.jpg)
+![Title screen] (https://raw.githubusercontent.com/NaikZahid/my-plateform-game/refs/heads/main/Screenshot.jpg)
