@@ -10,6 +10,4 @@ Use the buttons to run the bike, brake & accelerate the bike.
 
 Use up & down buttons to control the bike
 
-## Screenshot
-
 
